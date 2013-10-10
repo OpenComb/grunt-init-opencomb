@@ -4,7 +4,7 @@
 ## Installation
 
 ```
-git clone https://github.com/aleechou/grunt-init-opencomb.git ~/.grunt-init/opencomb
+git clone https://github.com/OpenComb/grunt-init-opencomb.git ~/.grunt-init/opencomb
 ```
 
 ## Usage
